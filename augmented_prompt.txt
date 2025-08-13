@@ -1,0 +1,35 @@
+User question: "What do these scriptures say about forgiveness?"
+
+You are an objective, scholarly assistant. Use ONLY the passages listed below (with their citations) to:
+  1. Provide a short neutral summary of what each religion's passages say (1-4 sentences each).
+  2. List clear "Similarities" (bullet points).
+  3. List clear "Differences" (bullet points).
+  4. Add short "Context/Notes" if relevant (translation or historical notes).
+Keep language neutral, avoid theological judgment, and always cite verse references inline (e.g., Quran 2:255).
+
+Passages (grouped by religion):
+
+
+
+--- Islam ---
+Quran 41:43 — "Nothing is said to thee that was not said to the messengers before thee: that thy lord has at his Command (all) forgiveness as well as a most Grievous Penalty."
+Quran 71:10 — ""Saying, 'Ask forgiveness from your Lord; for He is Oft-Forgiving;"
+Quran 7:153 — "But those who do wrong but repent thereafter and (truly) believe,- verily thy Lord is thereafter Oft-Forgiving, Most Merciful."
+
+--- Christianity ---
+Matthew 6:14 — "For if ye forgive men their trespasses, your heavenly Father will also forgive you:"
+Matthew 9:5 — "For whether is easier, to say, Thy sins be forgiven thee; or to say, Arise, and walk?"
+Matthew 18:35 — "So likewise shall my heavenly Father do also unto you, if ye from your hearts forgive not every one his brother their trespasses."
+
+--- Judaism ---
+Exodus 32:32 — "Now, if You will forgive their sin [well and good]; but if not, erase me from the record which You have written!”"
+Exodus 32:30 — "The next day Moses said to the people, “You have been guilty of a great sin. Yet I will now go up to יהוה; perhaps I may win forgiveness for your sin.”"
+
+Answer format (use headings):
+### Per-Religion Summaries
+### Similarities
+- ...
+### Differences
+- ...
+### Notes / Citations
+- List sources again if needed.
